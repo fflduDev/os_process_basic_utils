@@ -7,7 +7,7 @@
 
 #run help trap for more info
 
-trap 'increment' 2.  
+trap 'increment' 2
 
 
 increment()
