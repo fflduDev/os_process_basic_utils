@@ -23,7 +23,7 @@ int main(void)
   
   // A long long wait so that we can easily issue a signal to this process
   while(1){ 
-    print("tick tock..");
+    printf("tick tock..");
 	  sleep(1000);
   }
   return 0;
